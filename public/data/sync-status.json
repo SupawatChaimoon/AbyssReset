@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-10-15T03:44:53.230Z",
+  "sources": [
+    {
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "ok": true,
+      "last_success_at": "2026-10-15T03:44:53.230Z",
+      "last_attempt_at": "2026-10-15T03:44:53.230Z",
+      "item_count": 13,
+      "supported_types": [
+        "banner",
+        "endgame",
+        "event"
+      ]
+    },
+    {
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "ok": true,
+      "last_success_at": "2026-10-15T03:44:53.230Z",
+      "last_attempt_at": "2026-10-15T03:44:53.230Z",
+      "item_count": 19,
+      "supported_types": [
+        "banner",
+        "endgame",
+        "event"
+      ]
+    },
+    {
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "ok": true,
+      "last_success_at": "2026-10-15T03:44:53.230Z",
+      "last_attempt_at": "2026-10-15T03:44:53.230Z",
+      "item_count": 12,
+      "supported_types": [
+        "banner",
+        "endgame",
+        "event"
+      ]
+    },
+    {
+      "source_id": "kuro:wuwa",
+      "game_id": "wuwa",
+      "ok": true,
+      "last_success_at": "2026-10-15T03:44:53.230Z",
+      "last_attempt_at": "2026-10-15T03:44:53.230Z",
+      "item_count": 8,
+      "supported_types": [
+        "patch",
+        "banner",
+        "event"
+      ]
+    },
+    {
+      "source_id": "manual",
+      "game_id": null,
+      "ok": true,
+      "last_success_at": "2026-10-15T03:44:53.230Z",
+      "last_attempt_at": "2026-10-15T03:44:53.230Z",
+      "item_count": 0,
+      "supported_types": [
+        "patch",
+        "endgame"
+      ]
+    }
+  ]
+}
