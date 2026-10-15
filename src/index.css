@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans Thai", ui-sans-serif, system-ui, sans-serif;
+  --color-genshin: #4f9fd8;
+  --color-starrail: #9b7be0;
+  --color-zenless: #e8a33c;
+  --color-wuwa: #3fb8a5;
+}
+
+html,
+body {
+  background: #0f1117;
+  color: #e6e8ee;
+}
