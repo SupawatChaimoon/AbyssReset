@@ -20,24 +20,6 @@
       "raw_source_id": "2"
     },
     {
-      "id": "zenless:endgame:4",
-      "source_id": "ennead:zenless",
-      "game_id": "zenless",
-      "type": "endgame",
-      "title": "Annihilation Simulacrum",
-      "start_at": "2026-06-16T22:00:00.000Z",
-      "end_at": "2026-10-20T21:59:59.000Z",
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "confirmed",
-      "source_name": "Ennead API",
-      "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-15T03:42:04.054Z",
-      "first_seen_at": "2026-10-15T03:42:04.054Z",
-      "raw_source_id": "4"
-    },
-    {
       "id": "wuwa:endgame:50751",
       "source_id": "kuro:wuwa",
       "game_id": "wuwa",
@@ -1049,6 +1031,24 @@
       "raw_source_id": "2027"
     },
     {
+      "id": "zenless:endgame:4",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "endgame",
+      "title": "Annihilation Simulacrum",
+      "start_at": "2026-10-20T22:00:00.000Z",
+      "end_at": "2027-01-12T21:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-15T03:42:04.054Z",
+      "raw_source_id": "4"
+    },
+    {
       "id": "zenless:banner:3.3-character-1561.1641",
       "source_id": "ennead:zenless",
       "game_id": "zenless",
@@ -1096,7 +1096,7 @@
       "game_id": "zenless",
       "type": "banner",
       "subtype": "w_engine",
-      "title": "W-Engine Channel: Flawless Etiquette",
+      "title": "W-Engine Channel: Hatching Day / Flawless Etiquette",
       "start_at": "2026-10-21T01:00:00.000Z",
       "end_at": "2026-11-11T03:59:59.000Z",
       "all_day": false,
@@ -1106,26 +1106,51 @@
       "version": "3.3",
       "featured": [
         {
+          "name": "Hatching Day",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/86f0242d1f26c37561cd3e81d8ac5057.png",
+          "rarity": 5
+        },
+        {
           "name": "Flawless Etiquette",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u8d5de/7433c6c1d0347e95d3cc6b93858b9b0b.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/8197f7e1dd7e747b0192e787f1a638fc.png",
           "rarity": 5
         },
         {
           "name": "Standard Blocking Technique",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u8d5de/fcf05306beef01a1ae9cce04bced361a.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/73091620cf435f76b147a47190262ed5.png",
           "rarity": 4
         },
         {
           "name": "Caged Fire",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u8d5de/2408b9cf409af7799ad9d82c6cb1fab6.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/27f1d80f5a329b77ef1d12bef57c0763.png",
           "rarity": 4
         }
       ],
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-15T03:42:04.054Z",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
       "first_seen_at": "2026-10-15T03:42:04.054Z",
       "raw_source_id": "3.3-w_engine-14156.14164"
+    },
+    {
+      "id": "genshin:event:449",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Carefree Snowball Fight",
+      "start_at": "2026-10-21T02:00:00.000Z",
+      "end_at": "2026-11-01T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-15T03:42:30.964Z",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Carefree_Snowball_Fight.png/revision/latest?cb=20261020020238",
+      "description": "While passing through the snowfields southwest of Morepesok, you come across a group of children happily having a snowball fight, led by a Frost Operative, and decide to join in...",
+      "raw_source_id": "449"
     },
     {
       "id": "starrail:banner:100",
@@ -1231,6 +1256,43 @@
       "raw_source_id": "285"
     },
     {
+      "id": "zenless:event:5000165",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "event",
+      "title": "Spooky Funhouse Tales",
+      "start_at": "2026-10-22T02:00:00.000Z",
+      "end_at": "2026-11-29T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "image_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d7/Event_Spooky_Funhouse_Tales.png/revision/latest?cb=20261020071327",
+      "raw_source_id": "5000165"
+    },
+    {
+      "id": "zenless:event:5000169",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "event",
+      "title": "Cyber Miracle Healer, on Duty!",
+      "start_at": "2026-10-28T02:00:00.000Z",
+      "end_at": "2026-11-15T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "raw_source_id": "5000169"
+    },
+    {
       "id": "starrail:event:283",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -1269,24 +1331,114 @@
       "raw_source_id": "1036"
     },
     {
-      "id": "genshin:event:449",
-      "source_id": "ennead:genshin",
-      "game_id": "genshin",
+      "id": "zenless:event:5000168",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
       "type": "event",
-      "title": "Carefree Snowball Fight",
-      "start_at": null,
-      "end_at": null,
+      "title": "Trails of the Hobbling Crow",
+      "start_at": "2026-11-11T02:00:00.000Z",
+      "end_at": "2026-11-29T19:59:59.000Z",
       "all_day": false,
       "timezone": "Asia/Shanghai",
       "region": "asia",
-      "status": "unverified",
+      "status": "confirmed",
       "source_name": "Ennead API",
-      "source_url": "https://genshin.hoyoverse.com/en/news",
-      "last_synced_at": "2026-10-20T17:08:29.066Z",
-      "first_seen_at": "2026-10-15T03:42:30.964Z",
-      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Carefree_Snowball_Fight.png/revision/latest?cb=20261020020238",
-      "description": "While passing through the snowfields southwest of Morepesok, you come across a group of children happily having a snowball fight, led by a Frost Operative, and decide to join in...",
-      "raw_source_id": "449"
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "raw_source_id": "5000168"
+    },
+    {
+      "id": "zenless:banner:3.3-character-1571.1631",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Exclusive Channel: Norma",
+      "start_at": "2026-11-11T04:00:00.000Z",
+      "end_at": "2026-12-01T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "3.3",
+      "featured": [
+        {
+          "name": "Norma",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1571.png",
+          "rarity": 5
+        },
+        {
+          "name": "Nicole",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1031.png",
+          "rarity": 4
+        },
+        {
+          "name": "Pulchra",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1351.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "raw_source_id": "3.3-character-1571.1631"
+    },
+    {
+      "id": "zenless:banner:3.3-w_engine-14157.14163",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "banner",
+      "subtype": "w_engine",
+      "title": "W-Engine Channel: The Genius's Follower",
+      "start_at": "2026-11-11T04:00:00.000Z",
+      "end_at": "2026-12-01T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "3.3",
+      "featured": [
+        {
+          "name": "The Genius's Follower",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/7427205a0935a6e092bab4371bea0d51.png",
+          "rarity": 5
+        },
+        {
+          "name": "Money-Lover",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/6472b99bd5a3b53e5b9e4074710d825e.png",
+          "rarity": 4
+        },
+        {
+          "name": "Watch Your Fingers",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/0cfa7385649588d99333db08dee55249.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "raw_source_id": "3.3-w_engine-14157.14163"
+    },
+    {
+      "id": "zenless:event:5000166",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "event",
+      "title": "Repair! Drifting Art",
+      "start_at": "2026-11-16T02:00:00.000Z",
+      "end_at": "2026-11-29T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "raw_source_id": "5000166"
     },
     {
       "id": "genshin:event:452",
