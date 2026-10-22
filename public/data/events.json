@@ -1107,28 +1107,28 @@
       "featured": [
         {
           "name": "Hatching Day",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/86f0242d1f26c37561cd3e81d8ac5057.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/70ebfb9805d48068f6b885a52be08132.png",
           "rarity": 5
         },
         {
           "name": "Flawless Etiquette",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/8197f7e1dd7e747b0192e787f1a638fc.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/83199cc2e726ba2f0cd613b952a5b82a.png",
           "rarity": 5
         },
         {
           "name": "Standard Blocking Technique",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/73091620cf435f76b147a47190262ed5.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/843a94778664508236d71fe3ccceb1ae.png",
           "rarity": 4
         },
         {
           "name": "Caged Fire",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/27f1d80f5a329b77ef1d12bef57c0763.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/b0954a1f7c3a6143bb960bdb99b33afa.png",
           "rarity": 4
         }
       ],
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "last_synced_at": "2026-10-22T17:11:52.278Z",
       "first_seen_at": "2026-10-15T03:42:04.054Z",
       "raw_source_id": "3.3-w_engine-14156.14164"
     },
@@ -1440,23 +1440,23 @@
       "featured": [
         {
           "name": "The Genius's Follower",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/7427205a0935a6e092bab4371bea0d51.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/7026e77b578cf858909ae83d8dddc250.png",
           "rarity": 5
         },
         {
           "name": "Money-Lover",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/6472b99bd5a3b53e5b9e4074710d825e.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/c6a08aaaa757d7ff71297aa97dc792ba.png",
           "rarity": 4
         },
         {
           "name": "Watch Your Fingers",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf22fe/0cfa7385649588d99333db08dee55249.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua8fhe/ce80bac4b988d717af3e00e6ead19e41.png",
           "rarity": 4
         }
       ],
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "last_synced_at": "2026-10-22T17:11:52.278Z",
       "first_seen_at": "2026-10-21T04:49:50.722Z",
       "raw_source_id": "3.3-w_engine-14157.14163"
     },
