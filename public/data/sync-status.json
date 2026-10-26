@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-10-26T04:48:42.446Z",
+  "generated_at": "2026-10-26T13:04:58.831Z",
   "sources": [
     {
       "source_id": "ennead:genshin",
       "game_id": "genshin",
-      "ok": false,
-      "last_success_at": "2026-10-25T20:52:15.411Z",
-      "last_attempt_at": "2026-10-26T04:48:42.446Z",
-      "error": "HTTP 530 from https://api.ennead.cc/mihoyo/genshin/calendar",
+      "ok": true,
+      "last_success_at": "2026-10-26T13:04:58.831Z",
+      "last_attempt_at": "2026-10-26T13:04:58.831Z",
       "item_count": 14,
       "supported_types": [
         "banner",
@@ -18,10 +17,9 @@
     {
       "source_id": "ennead:starrail",
       "game_id": "starrail",
-      "ok": false,
-      "last_success_at": "2026-10-25T20:52:15.411Z",
-      "last_attempt_at": "2026-10-26T04:48:42.446Z",
-      "error": "HTTP 530 from https://api.ennead.cc/mihoyo/starrail/calendar",
+      "ok": true,
+      "last_success_at": "2026-10-26T13:04:58.831Z",
+      "last_attempt_at": "2026-10-26T13:04:58.831Z",
       "item_count": 19,
       "supported_types": [
         "banner",
@@ -32,10 +30,9 @@
     {
       "source_id": "ennead:zenless",
       "game_id": "zenless",
-      "ok": false,
-      "last_success_at": "2026-10-25T20:52:15.411Z",
-      "last_attempt_at": "2026-10-26T04:48:42.446Z",
-      "error": "HTTP 530 from https://api.ennead.cc/mihoyo/zenless/calendar",
+      "ok": true,
+      "last_success_at": "2026-10-26T13:04:58.831Z",
+      "last_attempt_at": "2026-10-26T13:04:58.831Z",
       "item_count": 18,
       "supported_types": [
         "banner",
@@ -47,8 +44,8 @@
       "source_id": "kuro:wuwa",
       "game_id": "wuwa",
       "ok": true,
-      "last_success_at": "2026-10-26T04:48:42.446Z",
-      "last_attempt_at": "2026-10-26T04:48:42.446Z",
+      "last_success_at": "2026-10-26T13:04:58.831Z",
+      "last_attempt_at": "2026-10-26T13:04:58.831Z",
       "item_count": 10,
       "supported_types": [
         "patch",
@@ -60,8 +57,8 @@
       "source_id": "manual",
       "game_id": null,
       "ok": true,
-      "last_success_at": "2026-10-26T04:48:42.446Z",
-      "last_attempt_at": "2026-10-26T04:48:42.446Z",
+      "last_success_at": "2026-10-26T13:04:58.831Z",
+      "last_attempt_at": "2026-10-26T13:04:58.831Z",
       "item_count": 0,
       "supported_types": [
         "patch",
