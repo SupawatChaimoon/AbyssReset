@@ -1351,6 +1351,25 @@
       "raw_source_id": "5000169"
     },
     {
+      "id": "wuwa:event:50862",
+      "source_id": "kuro:wuwa",
+      "game_id": "wuwa",
+      "type": "event",
+      "title": "[Beyond the Waves: Land of Xuanfang] Featured Exploration Event",
+      "start_at": "2026-10-28T20:00:00.000Z",
+      "end_at": "2026-11-10T19:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Singapore",
+      "region": "sea",
+      "status": "confirmed",
+      "source_name": "Kuro Games (ประกาศในเกม)",
+      "source_url": "https://wutheringwaves.kurogames.com/en/main/news/",
+      "last_synced_at": "2026-10-28T05:43:59.264Z",
+      "first_seen_at": "2026-10-28T05:43:59.264Z",
+      "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/gsuHBrxJxCkZvQnl.jpg",
+      "raw_source_id": "50862"
+    },
+    {
       "id": "starrail:event:283",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
