@@ -977,24 +977,6 @@
       "first_seen_at": "2026-10-16T16:19:55.097Z"
     },
     {
-      "id": "zenless:endgame:3",
-      "source_id": "ennead:zenless",
-      "game_id": "zenless",
-      "type": "endgame",
-      "title": "Shiyu Defense",
-      "start_at": "2026-10-15T20:00:00.000Z",
-      "end_at": "2026-10-29T19:59:59.000Z",
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "confirmed",
-      "source_name": "Ennead API",
-      "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-16T16:19:35.800Z",
-      "first_seen_at": "2026-10-15T03:42:04.054Z",
-      "raw_source_id": "3"
-    },
-    {
       "id": "starrail:endgame:2027",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -1368,6 +1350,24 @@
       "first_seen_at": "2026-10-28T05:43:59.264Z",
       "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/gsuHBrxJxCkZvQnl.jpg",
       "raw_source_id": "50862"
+    },
+    {
+      "id": "zenless:endgame:3",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "endgame",
+      "title": "Shiyu Defense",
+      "start_at": "2026-10-29T20:00:00.000Z",
+      "end_at": "2026-11-12T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-29T22:46:17.127Z",
+      "first_seen_at": "2026-10-15T03:42:04.054Z",
+      "raw_source_id": "3"
     },
     {
       "id": "starrail:event:283",
