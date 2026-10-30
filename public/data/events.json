@@ -1408,6 +1408,194 @@
       "raw_source_id": "1036"
     },
     {
+      "id": "starrail:banner:101",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Warp: Silver Wolf LV.999 / Sparxie / Yao Guang",
+      "start_at": "2026-11-11T02:00:00.000Z",
+      "end_at": "2026-12-02T10:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Silver Wolf LV.999",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/9355a930ba95ed16473deef4523fa06d.png",
+          "rarity": 5
+        },
+        {
+          "name": "Sparxie",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/8d86b0749df2c8879629d483d3ececd0.png",
+          "rarity": 5
+        },
+        {
+          "name": "Yao Guang",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/5418270141518a5bb48c3c75f6d79c24.png",
+          "rarity": 5
+        },
+        {
+          "name": "Asta",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/4dc67464a931485964f619b0a516d4a6.png",
+          "rarity": 4
+        },
+        {
+          "name": "Lynx",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/3112d473f68783b055c8404f0e8a6161.png",
+          "rarity": 4
+        },
+        {
+          "name": "Yukong",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/8d4079a54df6883e3563e5255526c42d.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "101"
+    },
+    {
+      "id": "starrail:banner:103",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "light_cone",
+      "title": "Light Cone Event Warp: Welcome to the Cosmic City / Dazzled by a Flowery World / When She Decided to See",
+      "start_at": "2026-11-11T02:00:00.000Z",
+      "end_at": "2026-12-02T10:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Welcome to the Cosmic City",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/5dc87ba5468025ba8f318e8ce3c884ee.png",
+          "rarity": 5
+        },
+        {
+          "name": "Dazzled by a Flowery World",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/b3799719c50cd1e95a6061ddd45d29c4.png",
+          "rarity": 5
+        },
+        {
+          "name": "When She Decided to See",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/3779d114f6f2199fabbfde717d24869e.png",
+          "rarity": 5
+        },
+        {
+          "name": "Trend of the Universal Market",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/2ad40c659c8030cdcdd74697d47b7c40.png",
+          "rarity": 4
+        },
+        {
+          "name": "Geniuses' Repose",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/b33b0a723c7ed2b2f0c9f5052da1c800.png",
+          "rarity": 4
+        },
+        {
+          "name": "Shadowed by Night",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/83bc775773541207f118c2ec3e9312f1.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "103"
+    },
+    {
+      "id": "starrail:banner:105",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Warp: Aeon ★ Aha",
+      "start_at": "2026-11-11T02:00:00.000Z",
+      "end_at": "2026-12-22T14:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Aeon ★ Aha",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_u861sc/8fedea592d2b6d0275ed8e5b75452a0a.png",
+          "rarity": 5
+        },
+        {
+          "name": "Asta",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/4dc67464a931485964f619b0a516d4a6.png",
+          "rarity": 4
+        },
+        {
+          "name": "Lynx",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/3112d473f68783b055c8404f0e8a6161.png",
+          "rarity": 4
+        },
+        {
+          "name": "Yukong",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/8d4079a54df6883e3563e5255526c42d.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "105"
+    },
+    {
+      "id": "starrail:banner:106",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "light_cone",
+      "title": "Light Cone Event Warp: Upon the First Echo of \"Aha\"",
+      "start_at": "2026-11-11T02:00:00.000Z",
+      "end_at": "2026-12-22T14:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Upon the First Echo of \"Aha\"",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/pre_webtool_cn/item_icon_u861sc/8b1ef0f60daeeaad94cb75b3e3241071.png",
+          "rarity": 5
+        },
+        {
+          "name": "Trend of the Universal Market",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/2ad40c659c8030cdcdd74697d47b7c40.png",
+          "rarity": 4
+        },
+        {
+          "name": "Geniuses' Repose",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/b33b0a723c7ed2b2f0c9f5052da1c800.png",
+          "rarity": 4
+        },
+        {
+          "name": "Shadowed by Night",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/83bc775773541207f118c2ec3e9312f1.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "106"
+    },
+    {
       "id": "zenless:event:5000168",
       "source_id": "ennead:zenless",
       "game_id": "zenless",
@@ -1431,7 +1619,7 @@
       "game_id": "zenless",
       "type": "banner",
       "subtype": "character",
-      "title": "Exclusive Channel: Norma",
+      "title": "Exclusive Channel: Severian / Norma",
       "start_at": "2026-11-11T04:00:00.000Z",
       "end_at": "2026-12-01T06:59:59.000Z",
       "all_day": false,
@@ -1440,6 +1628,11 @@
       "status": "confirmed",
       "version": "3.3",
       "featured": [
+        {
+          "name": "Severian",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1631.png",
+          "rarity": 5
+        },
         {
           "name": "Norma",
           "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1571.png",
@@ -1458,7 +1651,7 @@
       ],
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
       "first_seen_at": "2026-10-21T04:49:50.722Z",
       "raw_source_id": "3.3-character-1571.1631"
     },
@@ -1516,6 +1709,110 @@
       "last_synced_at": "2026-10-21T04:49:50.722Z",
       "first_seen_at": "2026-10-21T04:49:50.722Z",
       "raw_source_id": "5000166"
+    },
+    {
+      "id": "starrail:banner:102",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Warp: Acheron / Dan Heng • Imbibitor Lunae / Jing Yuan",
+      "start_at": "2026-12-02T11:00:00.000Z",
+      "end_at": "2026-12-22T14:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Acheron",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/891ca168c36e3b386ef556fe5411a2ba.png",
+          "rarity": 5
+        },
+        {
+          "name": "Dan Heng • Imbibitor Lunae",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/d40c7cad98be08c0e6a330be9960a7eb.png",
+          "rarity": 5
+        },
+        {
+          "name": "Jing Yuan",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/0dc14d24d5c97c9cddfe75a3f66c77c7.png",
+          "rarity": 5
+        },
+        {
+          "name": "Asta",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/4dc67464a931485964f619b0a516d4a6.png",
+          "rarity": 4
+        },
+        {
+          "name": "Lynx",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/3112d473f68783b055c8404f0e8a6161.png",
+          "rarity": 4
+        },
+        {
+          "name": "Yukong",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/8d4079a54df6883e3563e5255526c42d.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "102"
+    },
+    {
+      "id": "starrail:banner:104",
+      "source_id": "ennead:starrail",
+      "game_id": "starrail",
+      "type": "banner",
+      "subtype": "light_cone",
+      "title": "Light Cone Event Warp: Along the Passing Shore / Brighter Than the Sun / Before Dawn",
+      "start_at": "2026-12-02T11:00:00.000Z",
+      "end_at": "2026-12-22T14:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "4.7",
+      "featured": [
+        {
+          "name": "Along the Passing Shore",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/0fc6a3697abf3b3b458f77bb9c2a2597.png",
+          "rarity": 5
+        },
+        {
+          "name": "Brighter Than the Sun",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/7f2f912ffdf2f313c683988d7cb58f62.png",
+          "rarity": 5
+        },
+        {
+          "name": "Before Dawn",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/43982d3df8c1f5e12634c0750cdc4ace.png",
+          "rarity": 5
+        },
+        {
+          "name": "Trend of the Universal Market",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/2ad40c659c8030cdcdd74697d47b7c40.png",
+          "rarity": 4
+        },
+        {
+          "name": "Geniuses' Repose",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/b33b0a723c7ed2b2f0c9f5052da1c800.png",
+          "rarity": 4
+        },
+        {
+          "name": "Shadowed by Night",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u140pe/83bc775773541207f118c2ec3e9312f1.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://hsr.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-10-30T12:57:19.916Z",
+      "first_seen_at": "2026-10-30T12:57:19.916Z",
+      "raw_source_id": "104"
     }
   ]
 }
