@@ -1390,6 +1390,23 @@
       "raw_source_id": "283"
     },
     {
+      "id": "genshin:endgame:abeacf41322c",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "endgame",
+      "title": "Imaginarium Theater",
+      "start_at": "2026-10-31T20:00:00.000Z",
+      "end_at": "2026-11-30T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-10-31T21:36:25.101Z",
+      "first_seen_at": "2026-10-31T21:36:25.101Z"
+    },
+    {
       "id": "starrail:endgame:1036",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
