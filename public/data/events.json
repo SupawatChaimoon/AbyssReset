@@ -1425,6 +1425,25 @@
       "raw_source_id": "1036"
     },
     {
+      "id": "wuwa:event:50867",
+      "source_id": "kuro:wuwa",
+      "game_id": "wuwa",
+      "type": "event",
+      "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+      "start_at": "2026-11-03T20:00:00.000Z",
+      "end_at": "2026-11-10T19:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Singapore",
+      "region": "sea",
+      "status": "confirmed",
+      "source_name": "Kuro Games (ประกาศในเกม)",
+      "source_url": "https://wutheringwaves.kurogames.com/en/main/news/",
+      "last_synced_at": "2026-11-03T14:16:56.858Z",
+      "first_seen_at": "2026-11-03T14:16:56.858Z",
+      "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/DEAOsnOwFltHvYiK.jpg",
+      "raw_source_id": "50867"
+    },
+    {
       "id": "starrail:banner:101",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
