@@ -1444,6 +1444,184 @@
       "raw_source_id": "50867"
     },
     {
+      "id": "genshin:banner:239",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Wish: Mitya",
+      "start_at": "2026-11-03T23:00:00.000Z",
+      "end_at": "2026-11-24T09:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Mitya",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/a024f93489bf998b23dd8a41746bbc17.png",
+          "rarity": 5
+        },
+        {
+          "name": "Valeriy",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/2cd496faf46d4727430723b840e61881.png",
+          "rarity": 4
+        },
+        {
+          "name": "Charlotte",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f4e68e94225fa95112ae03c0a6d10938.png",
+          "rarity": 4
+        },
+        {
+          "name": "Rosaria",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7987cb608a5375cdfd1e34dda9455a31.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "raw_source_id": "239"
+    },
+    {
+      "id": "genshin:banner:240",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Wish 2: Furina",
+      "start_at": "2026-11-03T23:00:00.000Z",
+      "end_at": "2026-11-24T09:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Furina",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png",
+          "rarity": 5
+        },
+        {
+          "name": "Valeriy",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/2cd496faf46d4727430723b840e61881.png",
+          "rarity": 4
+        },
+        {
+          "name": "Charlotte",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f4e68e94225fa95112ae03c0a6d10938.png",
+          "rarity": 4
+        },
+        {
+          "name": "Rosaria",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7987cb608a5375cdfd1e34dda9455a31.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "raw_source_id": "240"
+    },
+    {
+      "id": "genshin:banner:241",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "weapon",
+      "title": "Weapon Event Wish: Starsealed Edict / Splendor of Tranquil Waters",
+      "start_at": "2026-11-03T23:00:00.000Z",
+      "end_at": "2026-11-24T09:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Starsealed Edict",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
+          "rarity": 5
+        },
+        {
+          "name": "Splendor of Tranquil Waters",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a0c785ee7bcfa4e7dd19032b8c28c7fa.png",
+          "rarity": 5
+        },
+        {
+          "name": "The Dockhand's Assistant",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/137e6ee9d36a6af76d67718713859bbd.png",
+          "rarity": 4
+        },
+        {
+          "name": "Prospector's Drill",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
+          "rarity": 4
+        },
+        {
+          "name": "Dawning Frost",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
+          "rarity": 4
+        },
+        {
+          "name": "Rainslasher",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+          "rarity": 4
+        },
+        {
+          "name": "Rust",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "raw_source_id": "241"
+    },
+    {
+      "id": "genshin:event:465",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "The Grand Defense: Defy the Unjust Judgment",
+      "start_at": "2026-11-03T23:00:00.000Z",
+      "end_at": "2026-12-15T23:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "description": "The Nail of Retribution has descended, and the Holy Soil phenomenon is spreading across Teyvat, throwing one region after another into crisis.\\nThe seven nations are now joining forces, mobilizing every resource at their disposal to push back the disasters erupting on all fronts...",
+      "raw_source_id": "465"
+    },
+    {
+      "id": "genshin:event:470",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "The Forge Realm's Temper: Endless Swarm",
+      "start_at": "2026-11-03T23:00:00.000Z",
+      "end_at": "2026-12-15T23:00:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "raw_source_id": "470"
+    },
+    {
       "id": "starrail:banner:101",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -1849,6 +2027,104 @@
       "last_synced_at": "2026-10-30T12:57:19.916Z",
       "first_seen_at": "2026-10-30T12:57:19.916Z",
       "raw_source_id": "104"
+    },
+    {
+      "id": "genshin:event:464",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Ley Line Overflow",
+      "start_at": null,
+      "end_at": null,
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "unverified",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Ley_Line_Overflow.png/revision/latest?cb=20220703201328",
+      "raw_source_id": "464"
+    },
+    {
+      "id": "genshin:event:466",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Stygian Onslaught",
+      "start_at": null,
+      "end_at": null,
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "unverified",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Stygian_Onslaught.png/revision/latest?cb=20250623040614",
+      "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+      "raw_source_id": "466"
+    },
+    {
+      "id": "genshin:event:467",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Stress Block Smashing Project",
+      "start_at": null,
+      "end_at": null,
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "unverified",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Stress_Block_Smashing_Project.png/revision/latest?cb=20261024092430",
+      "description": "Two yumekui-baku employees of the Aisa Bathhouse have arrived at the Easybreeze Holiday Resort to operate a special game. Come join the playtesters and \"crush your stress\" to your heart's content!",
+      "raw_source_id": "467"
+    },
+    {
+      "id": "genshin:event:468",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Frames of Fierce Splendor",
+      "start_at": null,
+      "end_at": null,
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "unverified",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Frames_of_Fierce_Splendor.png/revision/latest?cb=20261024092424",
+      "description": "Esfir, who is always eager to hone her filmmaking skills, has invited you and Paimon to work with her. She hopes that, with your help, she can create something that will lift the spirits of people across Snezhnaya...",
+      "raw_source_id": "468"
+    },
+    {
+      "id": "genshin:event:469",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Heated Battle Mode: Sprinting Stratagems",
+      "start_at": null,
+      "end_at": null,
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "unverified",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\\nRules for this period:\\nYou and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.",
+      "raw_source_id": "469"
     }
   ]
 }
