@@ -1277,24 +1277,6 @@
       "raw_source_id": "5000165"
     },
     {
-      "id": "zenless:endgame:1",
-      "source_id": "ennead:zenless",
-      "game_id": "zenless",
-      "type": "endgame",
-      "title": "Deadly Assault",
-      "start_at": "2026-10-22T20:00:00.000Z",
-      "end_at": "2026-11-05T19:59:59.000Z",
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "confirmed",
-      "source_name": "Ennead API",
-      "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-22T21:37:08.137Z",
-      "first_seen_at": "2026-10-15T03:42:04.054Z",
-      "raw_source_id": "1"
-    },
-    {
       "id": "genshin:event:452",
       "source_id": "ennead:genshin",
       "game_id": "genshin",
@@ -1620,6 +1602,24 @@
       "last_synced_at": "2026-11-04T06:24:15.431Z",
       "first_seen_at": "2026-11-04T06:24:15.431Z",
       "raw_source_id": "470"
+    },
+    {
+      "id": "zenless:endgame:1",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "endgame",
+      "title": "Deadly Assault",
+      "start_at": "2026-11-05T20:00:00.000Z",
+      "end_at": "2026-11-19T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-11-06T06:48:39.810Z",
+      "first_seen_at": "2026-10-15T03:42:04.054Z",
+      "raw_source_id": "1"
     },
     {
       "id": "starrail:banner:101",
