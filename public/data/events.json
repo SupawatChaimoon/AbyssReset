@@ -1334,24 +1334,6 @@
       "raw_source_id": "50862"
     },
     {
-      "id": "zenless:endgame:3",
-      "source_id": "ennead:zenless",
-      "game_id": "zenless",
-      "type": "endgame",
-      "title": "Shiyu Defense",
-      "start_at": "2026-10-29T20:00:00.000Z",
-      "end_at": "2026-11-12T19:59:59.000Z",
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "confirmed",
-      "source_name": "Ennead API",
-      "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-29T22:46:17.127Z",
-      "first_seen_at": "2026-10-15T03:42:04.054Z",
-      "raw_source_id": "3"
-    },
-    {
       "id": "starrail:event:283",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -1994,8 +1976,9 @@
       "status": "confirmed",
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-10-21T04:49:50.722Z",
+      "last_synced_at": "2026-11-13T06:46:56.590Z",
       "first_seen_at": "2026-10-21T04:49:50.722Z",
+      "image_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9c/Event_Trails_of_the_Hobbling_Crow.png/revision/latest?cb=20261112104939",
       "raw_source_id": "5000168"
     },
     {
@@ -2158,6 +2141,24 @@
       "first_seen_at": "2026-11-12T07:12:22.312Z",
       "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/tUWkMbVNNkqLKSVT.png",
       "raw_source_id": "3.8"
+    },
+    {
+      "id": "zenless:endgame:3",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "endgame",
+      "title": "Shiyu Defense",
+      "start_at": "2026-11-12T20:00:00.000Z",
+      "end_at": "2026-11-26T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-11-13T06:46:56.590Z",
+      "first_seen_at": "2026-10-15T03:42:04.054Z",
+      "raw_source_id": "3"
     },
     {
       "id": "zenless:event:5000166",
