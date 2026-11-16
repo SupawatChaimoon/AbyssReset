@@ -2161,6 +2161,23 @@
       "raw_source_id": "3"
     },
     {
+      "id": "genshin:endgame:92cdc91e0dd2",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "endgame",
+      "title": "Abyssal Moon Spire",
+      "start_at": "2026-11-15T20:00:00.000Z",
+      "end_at": "2026-12-15T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-16T06:31:35.761Z",
+      "first_seen_at": "2026-11-16T06:31:35.761Z"
+    },
+    {
       "id": "zenless:event:5000166",
       "source_id": "ennead:zenless",
       "game_id": "zenless",
