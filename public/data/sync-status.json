@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T06:31:35.761Z",
+  "generated_at": "2026-11-16T22:03:33.274Z",
   "sources": [
     {
       "source_id": "ennead:genshin",
       "game_id": "genshin",
       "ok": true,
-      "last_success_at": "2026-11-16T06:31:35.761Z",
-      "last_attempt_at": "2026-11-16T06:31:35.761Z",
+      "last_success_at": "2026-11-16T22:03:33.274Z",
+      "last_attempt_at": "2026-11-16T22:03:33.274Z",
       "item_count": 26,
       "supported_types": [
         "banner",
@@ -18,8 +18,8 @@
       "source_id": "ennead:starrail",
       "game_id": "starrail",
       "ok": true,
-      "last_success_at": "2026-11-16T06:31:35.761Z",
-      "last_attempt_at": "2026-11-16T06:31:35.761Z",
+      "last_success_at": "2026-11-16T22:03:33.274Z",
+      "last_attempt_at": "2026-11-16T22:03:33.274Z",
       "item_count": 38,
       "supported_types": [
         "banner",
@@ -30,9 +30,10 @@
     {
       "source_id": "ennead:zenless",
       "game_id": "zenless",
-      "ok": true,
+      "ok": false,
       "last_success_at": "2026-11-16T06:31:35.761Z",
-      "last_attempt_at": "2026-11-16T06:31:35.761Z",
+      "last_attempt_at": "2026-11-16T22:03:33.274Z",
+      "error": "fetch failed",
       "item_count": 18,
       "supported_types": [
         "banner",
@@ -44,8 +45,8 @@
       "source_id": "kuro:wuwa",
       "game_id": "wuwa",
       "ok": true,
-      "last_success_at": "2026-11-16T06:31:35.761Z",
-      "last_attempt_at": "2026-11-16T06:31:35.761Z",
+      "last_success_at": "2026-11-16T22:03:33.274Z",
+      "last_attempt_at": "2026-11-16T22:03:33.274Z",
       "item_count": 16,
       "supported_types": [
         "patch",
@@ -57,8 +58,8 @@
       "source_id": "manual",
       "game_id": null,
       "ok": true,
-      "last_success_at": "2026-11-16T06:31:35.761Z",
-      "last_attempt_at": "2026-11-16T06:31:35.761Z",
+      "last_success_at": "2026-11-16T22:03:33.274Z",
+      "last_attempt_at": "2026-11-16T22:03:33.274Z",
       "item_count": 0,
       "supported_types": [
         "patch",
