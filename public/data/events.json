@@ -2215,6 +2215,25 @@
       "raw_source_id": "3022"
     },
     {
+      "id": "wuwa:event:50919",
+      "source_id": "kuro:wuwa",
+      "game_id": "wuwa",
+      "type": "event",
+      "title": "[Lahai-Roi Blocks: Turnabout] Leisure Event",
+      "start_at": "2026-11-18T20:00:00.000Z",
+      "end_at": "2026-12-02T19:59:00.000Z",
+      "all_day": false,
+      "timezone": "Asia/Singapore",
+      "region": "sea",
+      "status": "confirmed",
+      "source_name": "Kuro Games (ประกาศในเกม)",
+      "source_url": "https://wutheringwaves.kurogames.com/en/main/news/",
+      "last_synced_at": "2026-11-18T07:30:07.671Z",
+      "first_seen_at": "2026-11-18T07:30:07.671Z",
+      "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/vkHdgptzTrnaifnq.jpg",
+      "raw_source_id": "50919"
+    },
+    {
       "id": "starrail:event:290",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -2427,9 +2446,9 @@
       "status": "unverified",
       "source_name": "Ennead API",
       "source_url": "https://genshin.hoyoverse.com/en/news",
-      "last_synced_at": "2026-11-04T06:24:15.431Z",
+      "last_synced_at": "2026-11-18T07:30:07.671Z",
       "first_seen_at": "2026-11-04T06:24:15.431Z",
-      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Stress_Block_Smashing_Project.png/revision/latest?cb=20261024092430",
+      "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Stress_Block_Smashing_Project.png/revision/latest?cb=20261118041400",
       "description": "Two yumekui-baku employees of the Aisa Bathhouse have arrived at the Easybreeze Holiday Resort to operate a special game. Come join the playtesters and \"crush your stress\" to your heart's content!",
       "raw_source_id": "467"
     },
