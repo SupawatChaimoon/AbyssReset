@@ -1586,24 +1586,6 @@
       "raw_source_id": "470"
     },
     {
-      "id": "zenless:endgame:1",
-      "source_id": "ennead:zenless",
-      "game_id": "zenless",
-      "type": "endgame",
-      "title": "Deadly Assault",
-      "start_at": "2026-11-05T20:00:00.000Z",
-      "end_at": "2026-11-19T19:59:59.000Z",
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "confirmed",
-      "source_name": "Ennead API",
-      "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-11-06T06:48:39.810Z",
-      "first_seen_at": "2026-10-15T03:42:04.054Z",
-      "raw_source_id": "1"
-    },
-    {
       "id": "starrail:event:295",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -2040,28 +2022,28 @@
       "featured": [
         {
           "name": "Evil Caught Within",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ub3eje/2bcd89b47374183562320ab3789c82bb.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/5fb81fcd1a978cd674adec4ede12ab3b.png",
           "rarity": 5
         },
         {
           "name": "The Genius's Follower",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ub3eje/ebe088a8ccec0ba657e2db2c162420fc.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/a14f530d78c5d823211c6c96639b2206.png",
           "rarity": 5
         },
         {
           "name": "Money-Lover",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ub3eje/ac71b30741f6d80fdebeea98e7c6c853.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/1e4319111db586105e69691ade46c0d1.png",
           "rarity": 4
         },
         {
           "name": "Watch Your Fingers",
-          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ub3eje/0789e35c95b2cc4ae247d77e6c65cea8.png",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/f719078d9e9b1d37215f2139d3d8a0e1.png",
           "rarity": 4
         }
       ],
       "source_name": "Ennead API",
       "source_url": "https://zenless.hoyoverse.com/en-us/news",
-      "last_synced_at": "2026-11-11T06:22:57.492Z",
+      "last_synced_at": "2026-11-19T20:38:22.449Z",
       "first_seen_at": "2026-10-21T04:49:50.722Z",
       "raw_source_id": "3.3-w_engine-14157.14163"
     },
@@ -2232,6 +2214,24 @@
       "first_seen_at": "2026-11-18T07:30:07.671Z",
       "image_url": "https://aki-gm-resources-back.aki-game.com/notice/image/vkHdgptzTrnaifnq.jpg",
       "raw_source_id": "50919"
+    },
+    {
+      "id": "zenless:endgame:1",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "endgame",
+      "title": "Deadly Assault",
+      "start_at": "2026-11-19T20:00:00.000Z",
+      "end_at": "2026-12-01T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-11-19T20:38:22.449Z",
+      "first_seen_at": "2026-10-15T03:42:04.054Z",
+      "raw_source_id": "1"
     },
     {
       "id": "starrail:event:290",
