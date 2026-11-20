@@ -2310,6 +2310,80 @@
       "raw_source_id": "2028"
     },
     {
+      "id": "zenless:banner:3.4-character-1601.1661",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Exclusive Channel: Sunbringer / Robin",
+      "start_at": "2026-12-02T01:00:00.000Z",
+      "end_at": "2027-01-12T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "3.4",
+      "featured": [
+        {
+          "name": "Sunbringer",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1601.png",
+          "rarity": 5
+        },
+        {
+          "name": "Robin",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1661.png",
+          "rarity": 5
+        },
+        {
+          "name": "Ben",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1121.png",
+          "rarity": 4
+        },
+        {
+          "name": "Lucy",
+          "image_url": "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1151.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-11-20T20:22:25.980Z",
+      "first_seen_at": "2026-11-20T20:22:25.980Z",
+      "raw_source_id": "3.4-character-1601.1661"
+    },
+    {
+      "id": "zenless:banner:3.4-w_engine-14160.14166",
+      "source_id": "ennead:zenless",
+      "game_id": "zenless",
+      "type": "banner",
+      "subtype": "w_engine",
+      "title": "W-Engine Channel: Ten Ton Top / Stampede Accident",
+      "start_at": "2026-12-02T01:00:00.000Z",
+      "end_at": "2027-01-12T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "3.4",
+      "featured": [
+        {
+          "name": "Ten Ton Top",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/0e179018de301ce7072cddc20207b119.png",
+          "rarity": 4
+        },
+        {
+          "name": "Stampede Accident",
+          "image_url": "https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u2a7le/81491f719b0b7c7c59eee8daa19810c9.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://zenless.hoyoverse.com/en-us/news",
+      "last_synced_at": "2026-11-20T20:22:25.980Z",
+      "first_seen_at": "2026-11-20T20:22:25.980Z",
+      "raw_source_id": "3.4-w_engine-14160.14166"
+    },
+    {
       "id": "starrail:banner:102",
       "source_id": "ennead:starrail",
       "game_id": "starrail",

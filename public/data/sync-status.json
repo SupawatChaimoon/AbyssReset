@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T07:17:39.716Z",
+  "generated_at": "2026-11-20T20:22:25.980Z",
   "sources": [
     {
       "source_id": "ennead:genshin",
       "game_id": "genshin",
       "ok": true,
-      "last_success_at": "2026-11-20T07:17:39.716Z",
-      "last_attempt_at": "2026-11-20T07:17:39.716Z",
+      "last_success_at": "2026-11-20T20:22:25.980Z",
+      "last_attempt_at": "2026-11-20T20:22:25.980Z",
       "item_count": 26,
       "supported_types": [
         "banner",
@@ -18,8 +18,8 @@
       "source_id": "ennead:starrail",
       "game_id": "starrail",
       "ok": true,
-      "last_success_at": "2026-11-20T07:17:39.716Z",
-      "last_attempt_at": "2026-11-20T07:17:39.716Z",
+      "last_success_at": "2026-11-20T20:22:25.980Z",
+      "last_attempt_at": "2026-11-20T20:22:25.980Z",
       "item_count": 38,
       "supported_types": [
         "banner",
@@ -31,9 +31,9 @@
       "source_id": "ennead:zenless",
       "game_id": "zenless",
       "ok": true,
-      "last_success_at": "2026-11-20T07:17:39.716Z",
-      "last_attempt_at": "2026-11-20T07:17:39.716Z",
-      "item_count": 19,
+      "last_success_at": "2026-11-20T20:22:25.980Z",
+      "last_attempt_at": "2026-11-20T20:22:25.980Z",
+      "item_count": 21,
       "supported_types": [
         "banner",
         "endgame",
@@ -44,8 +44,8 @@
       "source_id": "kuro:wuwa",
       "game_id": "wuwa",
       "ok": true,
-      "last_success_at": "2026-11-20T07:17:39.716Z",
-      "last_attempt_at": "2026-11-20T07:17:39.716Z",
+      "last_success_at": "2026-11-20T20:22:25.980Z",
+      "last_attempt_at": "2026-11-20T20:22:25.980Z",
       "item_count": 17,
       "supported_types": [
         "patch",
@@ -57,8 +57,8 @@
       "source_id": "manual",
       "game_id": null,
       "ok": true,
-      "last_success_at": "2026-11-20T07:17:39.716Z",
-      "last_attempt_at": "2026-11-20T07:17:39.716Z",
+      "last_success_at": "2026-11-20T20:22:25.980Z",
+      "last_attempt_at": "2026-11-20T20:22:25.980Z",
       "item_count": 0,
       "supported_types": [
         "patch",
