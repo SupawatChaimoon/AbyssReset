@@ -2272,6 +2272,25 @@
       "raw_source_id": "467"
     },
     {
+      "id": "genshin:event:469",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "event",
+      "title": "Heated Battle Mode: Sprinting Stratagems",
+      "start_at": "2026-11-21T02:00:00.000Z",
+      "end_at": "2026-12-06T19:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-21T07:09:54.676Z",
+      "first_seen_at": "2026-11-04T06:24:15.431Z",
+      "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\\nRules for this period:\\nYou and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.",
+      "raw_source_id": "469"
+    },
+    {
       "id": "starrail:event:290",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
@@ -2563,25 +2582,6 @@
       "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Frames_of_Fierce_Splendor.png/revision/latest?cb=20261024092424",
       "description": "Esfir, who is always eager to hone her filmmaking skills, has invited you and Paimon to work with her. She hopes that, with your help, she can create something that will lift the spirits of people across Snezhnaya...",
       "raw_source_id": "468"
-    },
-    {
-      "id": "genshin:event:469",
-      "source_id": "ennead:genshin",
-      "game_id": "genshin",
-      "type": "event",
-      "title": "Heated Battle Mode: Sprinting Stratagems",
-      "start_at": null,
-      "end_at": null,
-      "all_day": false,
-      "timezone": "Asia/Shanghai",
-      "region": "asia",
-      "status": "unverified",
-      "source_name": "Ennead API",
-      "source_url": "https://genshin.hoyoverse.com/en/news",
-      "last_synced_at": "2026-11-04T06:24:15.431Z",
-      "first_seen_at": "2026-11-04T06:24:15.431Z",
-      "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\\nRules for this period:\\nYou and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.",
-      "raw_source_id": "469"
     }
   ]
 }
