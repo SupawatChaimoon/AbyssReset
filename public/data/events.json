@@ -2311,6 +2311,194 @@
       "raw_source_id": "290"
     },
     {
+      "id": "genshin:banner:242",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Wish: Zibai",
+      "start_at": "2026-11-24T10:00:00.000Z",
+      "end_at": "2026-12-15T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Zibai",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/b7ea76f3f77eec4997dad6576c183939.png",
+          "rarity": 5
+        },
+        {
+          "name": "Illuga",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
+          "rarity": 4
+        },
+        {
+          "name": "Aino",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+          "rarity": 4
+        },
+        {
+          "name": "Ningguang",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3ae1f1d40773cd13d361e329a7efd887.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-24T22:27:36.738Z",
+      "first_seen_at": "2026-11-24T22:27:36.738Z",
+      "raw_source_id": "242"
+    },
+    {
+      "id": "genshin:banner:243",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Character Event Wish 2: Linnea",
+      "start_at": "2026-11-24T10:00:00.000Z",
+      "end_at": "2026-12-15T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Linnea",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/d1c44e49e1fcfdf9474ba6c2d2c9369d.png",
+          "rarity": 5
+        },
+        {
+          "name": "Illuga",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
+          "rarity": 4
+        },
+        {
+          "name": "Aino",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+          "rarity": 4
+        },
+        {
+          "name": "Ningguang",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3ae1f1d40773cd13d361e329a7efd887.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-24T22:27:36.738Z",
+      "first_seen_at": "2026-11-24T22:27:36.738Z",
+      "raw_source_id": "243"
+    },
+    {
+      "id": "genshin:banner:244",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "weapon",
+      "title": "Weapon Event Wish: Lightbearing Moonshard / Golden Frostbound Oath",
+      "start_at": "2026-11-24T10:00:00.000Z",
+      "end_at": "2026-12-15T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Lightbearing Moonshard",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/fa2ac4d5a0238fb674c44670652fc284.png",
+          "rarity": 5
+        },
+        {
+          "name": "Golden Frostbound Oath",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/f2f6618938b4163623b68daf1b165fe0.png",
+          "rarity": 5
+        },
+        {
+          "name": "Portable Power Saw",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f849ee063b4aafdf78deae9ef0cbf39f.png",
+          "rarity": 4
+        },
+        {
+          "name": "Range Gauge",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/52be43b8c0cdd1fa06c1a756777a6e93.png",
+          "rarity": 4
+        },
+        {
+          "name": "Sacrificial Sword",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8d40dcb0e8e25ad6c5940095fa6984ab.png",
+          "rarity": 4
+        },
+        {
+          "name": "Favonius Lance",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+          "rarity": 4
+        },
+        {
+          "name": "Eye of Perception",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
+          "rarity": 4
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-24T22:27:36.738Z",
+      "first_seen_at": "2026-11-24T22:27:36.738Z",
+      "raw_source_id": "244"
+    },
+    {
+      "id": "genshin:banner:245",
+      "source_id": "ennead:genshin",
+      "game_id": "genshin",
+      "type": "banner",
+      "subtype": "character",
+      "title": "Chronicled Wish / Lightrace Wish: Varesa / Chasca / Xilonen / Mualani / Kinich",
+      "start_at": "2026-11-24T10:00:00.000Z",
+      "end_at": "2026-12-15T06:59:59.000Z",
+      "all_day": false,
+      "timezone": "Asia/Shanghai",
+      "region": "asia",
+      "status": "confirmed",
+      "version": "7.2",
+      "featured": [
+        {
+          "name": "Varesa",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/34596fcb08c5c4b4e91379507e75dba7.png",
+          "rarity": 5
+        },
+        {
+          "name": "Chasca",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c009627a0c0289646a10d41779001b9d.png",
+          "rarity": 5
+        },
+        {
+          "name": "Xilonen",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png",
+          "rarity": 5
+        },
+        {
+          "name": "Mualani",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1fa9d9e4780785e7ab6c2ac10e556527.png",
+          "rarity": 5
+        },
+        {
+          "name": "Kinich",
+          "image_url": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ec67809641b4f1d2d2e87bc0e1e88b93.png",
+          "rarity": 5
+        }
+      ],
+      "source_name": "Ennead API",
+      "source_url": "https://genshin.hoyoverse.com/en/news",
+      "last_synced_at": "2026-11-24T22:27:36.738Z",
+      "first_seen_at": "2026-11-24T22:27:36.738Z",
+      "raw_source_id": "245"
+    },
+    {
       "id": "starrail:endgame:2028",
       "source_id": "ennead:starrail",
       "game_id": "starrail",
